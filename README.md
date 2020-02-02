@@ -25,7 +25,10 @@ fredag d 7/2
 
 ### 4. Git Bash advanced exercise
   * create a folder called testdir in your home-dir
-  * in that folder execute the following line of code:
-cnt=0;while [ $cnt -le 200 ]; do echo "Kurt er $cnt"> testfile$cnt.txt; cnt=$(( cnt + 1 )); done
+  * in that folder execute the line of code below
   * remove the created files with rm and wildcards
   * modify the line above so that it will create 500 files
+
+code for exercise 4
+cnt=0;while [ $cnt -le 200 ]; do echo "Kurt er $cnt"> testfile$cnt.txt; cnt=$(( cnt + 1 )); done
+
