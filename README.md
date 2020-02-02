@@ -9,7 +9,7 @@ fredag d 7/2
 ### 1. Git bash 
   * Download and install (Windows)
   * First exercise (pwd, cd, ls)
-  * Second exercise (mkdir, find, grep and the pipe)
+  * Second exercise (mkdir, find, grep and the pipe .. and history)
 
 ### 2. Java 11
   * Download
