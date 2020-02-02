@@ -30,5 +30,6 @@ fredag d 7/2
   * modify the line above so that it will create 500 files
 
 code for exercise 4
+
 cnt=0;while [ $cnt -le 200 ]; do echo "Kurt er $cnt"> testfile$cnt.txt; cnt=$(( cnt + 1 )); done
 
