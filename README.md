@@ -7,13 +7,12 @@ fredag d 7/2
 
 
 1) Git bash 
-..* Download and install (Windows)
-..* 
+  * Download and install (Windows)
+  * First exercise (pwd, cd, ls)
+  * Second exercise (mkdir, find, grep and the pipe)
 
 2) 
 
 3) 
 
 4) 
-
-5) Hack4DK 2019
