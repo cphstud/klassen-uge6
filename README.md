@@ -7,18 +7,18 @@ fredag d 7/2
 
 
 ### 1. Git bash 
-  * Download and install (Windows)
-  * [a link](https://git-scm.com/download/win)
+  * Download and install (Windows) from [here](https://git-scm.com/download/win)
   * First exercise (pwd, cd, ls)
   * Second exercise (mkdir, find, grep and the pipe .. and history)
 
 ### 2. Java 11
   * Download
-  * JAVA_HOME   
+  * set JAVA_HOME   
   * First exercise: javac and Hello World
 
 ### 3. Git Bash Third exercise
   * Download and unzip lejosimage.zip from repository
+    * in git bash using git clone <url> and unzip
   * Locate the jar-command on your pc/mac and print the options
   * How many jar-files can you find in the lejos-image?
   * Locate the classes.jar and count how many files it contains
