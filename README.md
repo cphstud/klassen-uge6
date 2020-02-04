@@ -6,7 +6,7 @@ torsdag d 6/2
 fredag d 7/2
 
 
-### 1. Git bash 
+### 1. Git bash (linux look and feel) 
   * Download and install (Windows) from [here](https://git-scm.com/download/win)
   * First exercise (pwd, cd, ls)
   * Second exercise (mkdir, find, grep and the pipe .. and history)
@@ -18,10 +18,9 @@ fredag d 7/2
 
 ### 3. Git Bash Third exercise
   * Download and unzip lejosimage.zip from repository
-    * in git bash using git clone <url> and unzip
+  * Using find-command, grep and wc to find out how many jar-files there are in the lejos-image
   * Locate the jar-command on your pc/mac and print the options
-  * How many jar-files can you find in the lejos-image?
-  * Locate the classes.jar and count how many files it contains
+  * Locate the classes.jar and count how many files it contains using the jar-command options
   * Use jar-command to unpack the classes.jar -file
 
 ### 4. Git Bash advanced exercise
