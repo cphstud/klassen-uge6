@@ -8,6 +8,7 @@ fredag d 7/2
 
 ### 1. Git bash 
   * Download and install (Windows)
+  * [a link](https://git-scm.com/download/win)
   * First exercise (pwd, cd, ls)
   * Second exercise (mkdir, find, grep and the pipe .. and history)
 
