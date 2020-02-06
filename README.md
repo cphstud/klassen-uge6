@@ -33,3 +33,10 @@ code for exercise 4
 
 cnt=0;while [ $cnt -le 200 ]; do echo "Kurt er $cnt"> testfile$cnt.txt; cnt=$(( cnt + 1 )); done
 
+### 5. SCRUM 
+  * Process overview (img)
+  * From Product-Backlog to Sprint-Backlog (Ideas, Stories and SMART tasks) 
+  * Roles (Product Owner, Scrum Master, Dev Team and Stakeholders)
+  * Fredagen på Blooms Institute kl 8.30, Adolphsvej 59. 2820 Gentofte
+
+
